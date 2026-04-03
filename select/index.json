@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Too Much（feat. Lucky Daye）",
+  "base_artist": "Mark Ronson",
+  "createdAt": "2026-04-03T12:03:11.196245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/01_Too_Much_(feat._Lucky_Daye)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson, Lucky Daye",
+      "has_synced": true,
+      "path": "select/02_Too_Much_(feat._Lucky_Daye)_Mark_Ronson,_Lucky_Daye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/03_Too_Much_(feat._Lucky_Daye)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson;Lucky Daye",
+      "has_synced": true,
+      "path": "select/04_Too_Much_(feat._Lucky_Daye)_Mark_Ronson;Lucky_Daye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson feat. Lucky Daye",
+      "has_synced": true,
+      "path": "select/05_Too_Much_(feat._Lucky_Daye)_Mark_Ronson_feat._Lucky_Daye.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Play Too Much (feat. SAFE)",
+      "artist": "YG feat. SAFE",
+      "has_synced": true,
+      "path": "select/06_Play_Too_Much_(feat._SAFE)_YG_feat._SAFE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Play Too Much (feat. Safe)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/07_Play_Too_Much_(feat._Safe)_YG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Touch Too Much (feat. Paul French) (original version)",
+      "artist": "Benassi Bros.",
+      "has_synced": true,
+      "path": "select/08_Don't_Touch_Too_Much_(feat._Paul_French)_(original_version)_Benassi_Bros..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dount Touch Too Much (Feat Paul French Original Version)",
+      "artist": "Benassi Bros",
+      "has_synced": true,
+      "path": "select/09_Dount_Touch_Too_Much_(Feat_Paul_French_Original_Version)_Benassi_Bros.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doing Too Much (feat. Slimmy B)",
+      "artist": "Guapdad 4000",
+      "has_synced": false,
+      "path": "select/10_Doing_Too_Much_(feat._Slimmy_B)_Guapdad_4000.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Not Too Much feat. Zion",
+      "artist": "Don Omar",
+      "has_synced": true,
+      "path": "select/11_Not_Too_Much_feat._Zion_Don_Omar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Too Much (Feat. Sampha)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_Too_Much_(Feat._Sampha)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Too Much (feat. Usher)",
+      "artist": "Marshmello feat. Imanbek & Usher",
+      "has_synced": true,
+      "path": "select/13_Too_Much_(feat._Usher)_Marshmello_feat._Imanbek_&_Usher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Too Much (feat. Usher)",
+      "artist": "Marshmello",
+      "has_synced": true,
+      "path": "select/14_Too_Much_(feat._Usher)_Marshmello.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Much (feat. Moneybagg Yo)",
+      "artist": "Freddie Gibbs feat. Moneybagg Yo",
+      "has_synced": true,
+      "path": "select/15_Too_Much_(feat._Moneybagg_Yo)_Freddie_Gibbs_feat._Moneybagg_Yo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Too Much (feat. Usher)",
+      "artist": "Marshmello/Imanbek/Usher",
+      "has_synced": true,
+      "path": "select/16_Too_Much_(feat._Usher)_Marshmello_Imanbek_Usher.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Too Much - feat. James Otto",
+      "artist": "Randy Travis",
+      "has_synced": false,
+      "path": "select/17_Too_Much_-_feat._James_Otto_Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Too Much (feat. James Otto)",
+      "artist": "Randy Travis/James Otto",
+      "has_synced": false,
+      "path": "select/18_Too_Much_(feat._James_Otto)_Randy_Travis_James_Otto.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Too Much (feat. Moneybagg Yo)",
+      "artist": "Freddie Gibbs",
+      "has_synced": true,
+      "path": "select/19_Too_Much_(feat._Moneybagg_Yo)_Freddie_Gibbs.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Too Much (Feat. Nate Dogg)",
+      "artist": "The Game",
+      "has_synced": true,
+      "path": "select/20_Too_Much_(Feat._Nate_Dogg)_The_Game.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Too Much Feat. P.O.S",
+      "artist": "Sims",
+      "has_synced": false,
+      "path": "select/21_Too_Much_Feat._P.O.S_Sims.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Too Much (feat. DEAN)",
+      "artist": "Loco feat. DEAN",
+      "has_synced": true,
+      "path": "select/22_Too_Much_(feat._DEAN)_Loco_feat._DEAN.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Too Much (Feat. DEAN)",
+      "artist": "Loco",
+      "has_synced": true,
+      "path": "select/23_Too_Much_(Feat._DEAN)_Loco.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Too Much (feat. Moneybagg Yo)",
+      "artist": "Freddie Gibbs",
+      "has_synced": true,
+      "path": "select/24_Too_Much_(feat._Moneybagg_Yo)_Freddie_Gibbs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Too Much (feat. Lucky Daye)",
+      "artist": "Mark Ronson",
+      "has_synced": false,
+      "path": "select/pl_01_Too_Much_(feat._Lucky_Daye)_Mark_Ronson.txt"
+    }
+  ]
+}
